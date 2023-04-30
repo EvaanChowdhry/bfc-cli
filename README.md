@@ -23,7 +23,7 @@ To install bfc-cli globally on your computer, follow these steps:
 
 ## Usage
 
-To use bfc-cli, you need to provide a string as an argument. For example, if you want to calculate how long it would take to brute-force the string "hello", you can run the command `bfc-cli hello`. bfc-cli will then output the estimated time in seconds, minutes, hours, days, years depending on how long it is.
+To use bfc-cli, you need to provide a string as an argument. For example, if you want to calculate how long it would take to brute-force the string "hello", you can run the command `bfc hello`. bfc-cli will then output the estimated time in seconds, minutes, hours, days, years depending on how long it is.
 
 ## License
 
