@@ -1,10 +1,10 @@
 {
   "name": "bfc-cli",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "bin": "./bin/index.js",
-  "keywords": [],
+  "keywords": ["bruteforce", "cli", "bfc", "cybersecurity", "crackig", "passwords"],
   "author": "",
   "license": "ISC",
   "dependencies": {
